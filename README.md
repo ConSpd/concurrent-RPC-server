@@ -1,6 +1,6 @@
 # RPC server
 
-The server process can handle multiple client requests and deals with the following services.
+RPC (Remote Procedure Call) in C lets programs execute functions on remote computers as if they were local. It simplifies building distributed systems by handling network communication complexities. The server process can handle multiple client requests and deals with the following services.
 
 A client sends a number $a \in \mathbb{R}$ and a vector $Y = (y_1, y_2, ..., y_n) \in \mathbb{N}$ where $n$ is defined by the user.
 Afterwards it offers the following services.
